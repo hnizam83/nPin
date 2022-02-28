@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PasscodeViewController.buttonPressed(_:):PasscodeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Double(timeoutLength)">
+            </PersistentString>
+            <PersistentString
+               value = "passcodeHashType">
+            </PersistentString>
+            <PersistentString
+               value = "keychainPassword.hashType">
+            </PersistentString>
+            <PersistentString
+               value = "self.timeoutExpiryDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AccessViewController.setButtonConstraints(button:width:height:):AccessViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.deleteButton">
+            </PersistentString>
+            <PersistentString
+               value = "self.hiddenButton">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PasscodeViewController.setupBiometricId():PasscodeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.biometryType">
+            </PersistentString>
+            <PersistentString
+               value = "context.biometryType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PasscodeViewController.viewDidAppear(_:):PasscodeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.keychain.get(nPin.passcodeKey)">
+            </PersistentString>
+            <PersistentString
+               value = "UserDefaults.standard.bool(forKey: &quot;biometricId&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "KeychainPasswordSwift.testPassword(_:):KeychainPasswordSwift.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "input">
+            </PersistentString>
+            <PersistentString
+               value = "salt + input">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.viewDidAppear(_:):LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "KeychainSwift.activateSyncWithLocalValues():KeychainSwift+Extension.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.get(nPin.passcodeKey)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NumpadViewController.viewDidLoad():NumpadViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.mainTitle.superview">
+            </PersistentString>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AccessViewController.setupFormatting():AccessViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "button.titleLabel?.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "IAPManagerSK2.updatePurchasedState():IAPManagerSK2.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "KeychainPasswordManager.passwordExists():KeychainPasswordManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_keychain.get(_passwordKey)">
+            </PersistentString>
+            <PersistentString
+               value = "_keychain.synchronizable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "IAPManager.setPremiumAppIcon(premiumIconName:):IAPManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.keystore.bool(forKey: premiumAppIconKey)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PasscodeViewController.viewDidLoad():PasscodeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UserDefaults.standard.object(forKey: &quot;timeoutExpiryDate&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "UserDefaults.standard.object(forKey: &quot;timeoutExpiryDate&quot;) as? Date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewPasscodeViewController.setupFormatting():NewPasscodeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIImage(systemName: &quot;delete.left.fill&quot;, withConfiguration: largeConfiguration)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ValidatedTextField.isValid():EditViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "text.count &lt;= maxCount">
+            </PersistentString>
+            <PersistentString
+               value = "text.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SettingsTableViewController.viewDidLoad():SettingsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nPin.biometricIdKey">
+            </PersistentString>
+            <PersistentString
+               value = "self.switches">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AccessViewController.numButtonPressed(_:):AccessViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "EditViewController.validateTextField(_:):EditViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textField.placeholder">
+            </PersistentString>
+            <PersistentString
+               value = "textField.text">
+            </PersistentString>
+            <PersistentString
+               value = "textField.layer.borderColor">
+            </PersistentString>
+            <PersistentString
+               value = "textField.text?.count">
+            </PersistentString>
+            <PersistentString
+               value = "textField.layer.borderWidth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewNewPasscodeViewController.savePassword():NewNewPasscodeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "confirmPasscodeTextField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AccessViewController.viewDidAppear(_:):AccessViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SettingsTableViewController.switchValueChanged(_:):SettingsTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PasscodeViewController.dismissTimeoutAlert():PasscodeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Date()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShowPinViewController.viewDidLoad():ShowPinViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "security &amp;&amp; random">
+            </PersistentString>
+            <PersistentString
+               value = "security &amp;&amp; reverse">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.prepare(for:sender:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tabBarController.children">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SettingsTableViewController.viewWillAppear(_:):SettingsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.switches[key]!.key">
+            </PersistentString>
+            <PersistentString
+               value = "self.switches">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CoreDataStack.activateCloudSync(mergeOption:):CoreDataStack.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CloudCoreDataStack.createCard(digits:pin:name:order:lastAccessed:favorite:colorAsHex:):CloudCoreDataStack.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "card.colorAsHex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
