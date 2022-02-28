@@ -1,0 +1,33 @@
+{
+  "identifier" : "4930184E",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "B2FD2E0E",
+      "localizations" : [
+        {
+          "description" : "Unlimited PIN codes",
+          "displayName" : "Premium Version",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.nmash.nPin.Premium",
+      "referenceName" : "Premium Version",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

@@ -1,0 +1,278 @@
+/* Class = "UILabel"; text = "Passcodes did not match"; ObjectID = "00S-gg-vax"; */
+"00S-gg-vax.text" = "Les codes ne correspondent pas";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "0fc-6J-ggs"; */
+"0fc-6J-ggs.normalTitle" = "9";
+
+/* Class = "UINavigationController"; title = "nPin"; ObjectID = "0TO-wD-Ppp"; */
+"0TO-wD-Ppp.title" = "nPin";
+
+/* Class = "UILabel"; text = "Timeout lock"; ObjectID = "1xP-8Q-ZDM"; */
+"1xP-8Q-ZDM.text" = "Verrouillage";
+
+/* Class = "UILabel"; text = "Max retries"; ObjectID = "1YH-kh-gcb"; */
+"1YH-kh-gcb.text" = "Max tentatives";
+
+/* Class = "UILabel"; text = "Enter Last Digits"; ObjectID = "4YH-9H-TFq"; */
+"4YH-9H-TFq.text" = "Saisissez les 4 derniers chiffres";
+
+/* Class = "UILabel"; text = "Random PINs"; ObjectID = "5EK-jz-X28"; */
+"5EK-jz-X28.text" = "PINs aléatoires";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "7hT-3o-vuR"; */
+"7hT-3o-vuR.normalTitle" = "7";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "ahf-vg-l5K"; */
+"ahf-vg-l5K.normalTitle" = "6";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "Apl-uv-g99"; */
+"Apl-uv-g99.normalTitle" = "1";
+
+/* Class = "UILabel"; text = "PIN Display Security"; ObjectID = "C2j-tW-8Om"; */
+"C2j-tW-8Om.text" = "Présentation PIN sécurisée";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "cae-jY-rvG"; */
+"cae-jY-rvG.text" = "1234";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "cAV-Rd-O22"; */
+"cAV-Rd-O22.normalTitle" = "2";
+
+/* Class = "UITabBarItem"; title = "Access"; ObjectID = "Cbc-9t-e3w"; */
+"Cbc-9t-e3w.title" = "Accès";
+
+/* Class = "UIButton"; normalTitle = "Forgot Passcode?"; ObjectID = "cZe-aS-Xqh"; */
+"cZe-aS-Xqh.normalTitle" = "Code Oublié?";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "dbs-4k-8f4"; */
+"dbs-4k-8f4.normalTitle" = "8";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "dM1-KM-iNl"; */
+"dM1-KM-iNl.normalTitle" = "8";
+
+/* Class = "UILabel"; text = "Fake PIN"; ObjectID = "DtG-as-lvt"; */
+"DtG-as-lvt.text" = "Faux PIN";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "dTj-8e-Nkh"; */
+"dTj-8e-Nkh.text" = "1234";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "e8y-Ie-atE"; */
+"e8y-Ie-atE.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "ewy-vg-i4S"; */
+"ewy-vg-i4S.text" = "1234";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "fCo-Iu-tfs"; */
+"fCo-Iu-tfs.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Scan From Credit Card"; ObjectID = "FN0-N8-kPZ"; */
+"FN0-N8-kPZ.normalTitle" = "Scanner carte de crédit";
+
+/* Class = "UILabel"; text = "nPin"; ObjectID = "fnS-Or-nbi"; */
+"fnS-Or-nbi.text" = "nPin";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "fUX-6z-dfC"; */
+"fUX-6z-dfC.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "Gof-Xi-vp4"; */
+"Gof-Xi-vp4.normalTitle" = "6";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "HvW-xH-wMh"; */
+"HvW-xH-wMh.title" = "Paramètres";
+
+/* Class = "UITableViewController"; title = "Cards"; ObjectID = "HZn-3j-DLo"; */
+"HZn-3j-DLo.title" = "Cartes";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "Iqg-Lx-Vnz"; */
+"Iqg-Lx-Vnz.normalTitle" = "8";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "JGd-Re-XJL"; */
+"JGd-Re-XJL.normalTitle" = "3";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "jXe-ob-tfh"; */
+"jXe-ob-tfh.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "kRQ-cg-eUO"; */
+"kRQ-cg-eUO.normalTitle" = "3";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "LFD-Mt-UJE"; */
+"LFD-Mt-UJE.title" = "Paramètres";
+
+/* Class = "UITextField"; placeholder = "Pin Code"; ObjectID = "MIx-xi-sgA"; */
+"MIx-xi-sgA.placeholder" = "Code Pin";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "MOM-pS-VqA"; */
+"MOM-pS-VqA.text" = "Erreure";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mW1-K3-wDJ"; */
+"mW1-K3-wDJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "mxj-dI-xzA"; */
+"mxj-dI-xzA.text" = "Detail";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "NBH-XQ-ADO"; */
+"NBH-XQ-ADO.normalTitle" = "6";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "nCx-Iw-trh"; */
+"nCx-Iw-trh.normalTitle" = "4";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "nFI-eD-Bks"; */
+"nFI-eD-Bks.normalTitle" = "9";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "NHV-Hw-Xl1"; */
+"NHV-Hw-Xl1.normalTitle" = "0";
+
+/* Class = "UINavigationController"; title = "nPin"; ObjectID = "NL4-Dg-kLc"; */
+"NL4-Dg-kLc.title" = "nPin";
+
+/* Class = "UITabBarItem"; title = "List"; ObjectID = "nrR-Gp-28g"; */
+"nrR-Gp-28g.title" = "Liste";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "owh-Kq-ONW"; */
+"owh-Kq-ONW.normalTitle" = "0";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "pFG-9f-s0o"; */
+"pFG-9f-s0o.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "pO9-mK-ujb"; */
+"pO9-mK-ujb.normalTitle" = "9";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "QpX-s6-RPr"; */
+"QpX-s6-RPr.normalTitle" = "7";
+
+/* Class = "UINavigationItem"; title = "Cards"; ObjectID = "Qs0-cg-p0q"; */
+"Qs0-cg-p0q.title" = "Cartes";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "QUn-Vc-eD8"; */
+"QUn-Vc-eD8.normalTitle" = "7";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "Ran-p2-TRb"; */
+"Ran-p2-TRb.text" = "1234";
+
+/* Class = "UITextField"; placeholder = "Card nickname (optional)"; ObjectID = "RkT-IU-7HP"; */
+"RkT-IU-7HP.placeholder" = "Nom de carte (facultatif)";
+
+/* Class = "UILabel"; text = "Reverse PIN"; ObjectID = "RYb-ee-O3o"; */
+"RYb-ee-O3o.text" = "PIN verso";
+
+/* Class = "UILabel"; text = "iCloud Sync"; ObjectID = "RZ1-EI-FKd"; */
+"RZ1-EI-FKd.text" = "Login biométrique";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "S8P-WA-YxD"; */
+"S8P-WA-YxD.normalTitle" = "3";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "S8x-Bv-UPu"; */
+"S8x-Bv-UPu.normalTitle" = "2";
+
+/* Class = "UILabel"; text = "Favorite"; ObjectID = "SdF-eZ-WnQ"; */
+"SdF-eZ-WnQ.text" = "Favori";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "Se4-7i-D9n"; */
+"Se4-7i-D9n.normalTitle" = "5";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "SqH-l8-cUD"; */
+"SqH-l8-cUD.title" = "Déconnexion";
+
+/* Class = "UILabel"; text = "Biometric ID"; ObjectID = "SQm-qa-eO8"; */
+"SQm-qa-eO8.text" = "ID Biométrique";
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "srQ-Ah-c2Q"; */
+"srQ-Ah-c2Q.title" = "Déconnexion";
+
+/* Class = "UILabel"; text = "Enter New Passcode"; ObjectID = "Tuc-jh-Dbd"; */
+"Tuc-jh-Dbd.text" = "Saisissez le nouveau code";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "TWz-cK-lPq"; */
+"TWz-cK-lPq.normalTitle" = "1";
+
+/* Class = "UILabel"; text = "Timeout length (minutes)"; ObjectID = "tYS-Uo-pXW"; */
+"tYS-Uo-pXW.text" = "Durée de verrouillage (minutes)";
+
+/* Class = "UINavigationController"; title = "nPin"; ObjectID = "u6Y-tH-ged"; */
+"u6Y-tH-ged.title" = "nPin";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "UdN-mX-ALz"; */
+"UdN-mX-ALz.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "Enter Passcode"; ObjectID = "Vly-u0-jhD"; */
+"Vly-u0-jhD.text" = "Saisissez votre code";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "vSk-FN-DJp"; */
+"vSk-FN-DJp.normalTitle" = "0";
+
+/* Class = "UITextField"; placeholder = "Last 4 digits"; ObjectID = "vzv-Vs-Zfj"; */
+"vzv-Vs-Zfj.placeholder" = "4 derniers chiffres'";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "Wxr-mH-P2W"; */
+"Wxr-mH-P2W.normalTitle" = "2";
+
+/* Class = "UISegmentedControl"; xDf-2t-iLn.segmentTitles[0] = "1"; ObjectID = "xDf-2t-iLn"; */
+"xDf-2t-iLn.segmentTitles[0]" = "1";
+
+/* Class = "UISegmentedControl"; xDf-2t-iLn.segmentTitles[1] = "2"; ObjectID = "xDf-2t-iLn"; */
+"xDf-2t-iLn.segmentTitles[1]" = "2";
+
+/* Class = "UISegmentedControl"; xDf-2t-iLn.segmentTitles[2] = "3"; ObjectID = "xDf-2t-iLn"; */
+"xDf-2t-iLn.segmentTitles[2]" = "3";
+
+/* Class = "UISegmentedControl"; xDf-2t-iLn.segmentTitles[3] = "4"; ObjectID = "xDf-2t-iLn"; */
+"xDf-2t-iLn.segmentTitles[3]" = "4";
+
+/* Class = "UISegmentedControl"; xDf-2t-iLn.segmentTitles[4] = "5"; ObjectID = "xDf-2t-iLn"; */
+"xDf-2t-iLn.segmentTitles[4]" = "5";
+
+/* Class = "UISegmentedControl"; xmG-cg-g4e.segmentTitles[0] = "1"; ObjectID = "xmG-cg-g4e"; */
+"xmG-cg-g4e.segmentTitles[0]" = "1";
+
+/* Class = "UISegmentedControl"; xmG-cg-g4e.segmentTitles[1] = "2"; ObjectID = "xmG-cg-g4e"; */
+"xmG-cg-g4e.segmentTitles[1]" = "2";
+
+/* Class = "UISegmentedControl"; xmG-cg-g4e.segmentTitles[2] = "3"; ObjectID = "xmG-cg-g4e"; */
+"xmG-cg-g4e.segmentTitles[2]" = "3";
+
+/* Class = "UISegmentedControl"; xmG-cg-g4e.segmentTitles[3] = "4"; ObjectID = "xmG-cg-g4e"; */
+"xmG-cg-g4e.segmentTitles[3]" = "4";
+
+/* Class = "UISegmentedControl"; xmG-cg-g4e.segmentTitles[4] = "5"; ObjectID = "xmG-cg-g4e"; */
+"xmG-cg-g4e.segmentTitles[4]" = "5";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "ZLA-1T-yJb"; */
+"ZLA-1T-yJb.text" = "1234";
+
+/* Class = "UITextField"; placeholder = "Confirm Passcode (6 digits)"; ObjectID = "G3q-7f-jt5"; */
+"G3q-7f-jt5.placeholder" = "Confirmer code (6 chiffres)";
+
+/* Class = "UIViewController"; title = "New Passcode"; ObjectID = "OG6-iH-Gru"; */
+"OG6-iH-Gru.title" = "Nouveau Code";
+
+/* Class = "UIButton"; normalTitle = "Save New Passcode"; ObjectID = "XC2-46-veq"; */
+"XC2-46-veq.normalTitle" = "Enregistrer nouveau code";
+
+/* Class = "UITextField"; placeholder = "New Passcode (6 digits)"; ObjectID = "nmP-PW-htg"; */
+"nmP-PW-htg.placeholder" = "Nouveau code (6 chiffres)";
+
+/* Class = "UITextField"; placeholder = "Current Passcode"; ObjectID = "uzC-mY-7So"; */
+"uzC-mY-7So.placeholder" = "Code actuel";
+
+/* Class = "UINavigationItem"; title = "New Passcode"; ObjectID = "TzH-wp-jOo"; */
+"TzH-wp-jOo.title" = "Nouveau Code";
+
+/* Class = "UIButton"; normalTitle = "Restore Purchase"; ObjectID = "J02-Ss-oE5"; */
+"J02-Ss-oE5.normalTitle" = "Restaurer l'Achat";
+
+/* Class = "UIButton"; normalTitle = "Buy Premium"; ObjectID = "ZgQ-e8-h5L"; */
+"ZgQ-e8-h5L.normalTitle" = "Acheter Version Premium";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "huZ-PL-zPY"; */
+"huZ-PL-zPY.title" = "Retour";
+
+/* Class = "UILabel"; text = "New Passcode"; ObjectID = "4m8-yk-7hI"; */
+"4m8-yk-7hI.text" = "Nouveau Code";
+
+/* Class = "UIButton"; normalTitle = "Reset App Passcode"; ObjectID = "3ZI-jb-phB"; */
+"3ZI-jb-phB.normalTitle" = "Réinitialiser le code d'accès";
+
+/* Class = "UIButton"; normalTitle = "Upgrade to Premium App Icon"; ObjectID = "cmc-iE-A0I"; */
+"cmc-iE-A0I.normalTitle" = "Changer à l'icône Premium";
+
+/* Class = "UIButton"; normalTitle = "Reset App Data"; ObjectID = "xdv-Tg-rbF"; */
+"xdv-Tg-rbF.normalTitle" = "Réinitialiser les données de l'application";

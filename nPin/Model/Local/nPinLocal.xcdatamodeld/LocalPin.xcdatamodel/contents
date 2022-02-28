@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20G95" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="LocalCard" representedClassName=".LocalCard" syncable="YES" codeGenerationType="class">
+        <attribute name="colorAsHex" optional="YES" attributeType="String" defaultValueString="#4fc1db"/>
+        <attribute name="digits" attributeType="String" minValueString="4" maxValueString="4" defaultValueString="0000"/>
+        <attribute name="fakePins" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromDataTransformerName" customClassName="NSArray"/>
+        <attribute name="favorite" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="lastAccessed" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="order" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="pin" attributeType="String" minValueString="4" maxValueString="4" defaultValueString="0000"/>
+    </entity>
+    <elements>
+        <element name="LocalCard" positionX="-54" positionY="0" width="128" height="149"/>
+    </elements>
+</model>
